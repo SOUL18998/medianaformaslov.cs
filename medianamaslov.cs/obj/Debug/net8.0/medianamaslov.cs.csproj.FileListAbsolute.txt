@@ -1,0 +1,14 @@
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\bin\Debug\net8.0\medianamaslov.cs.exe
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\bin\Debug\net8.0\medianamaslov.cs.deps.json
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\bin\Debug\net8.0\medianamaslov.cs.runtimeconfig.json
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\bin\Debug\net8.0\medianamaslov.cs.dll
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\bin\Debug\net8.0\medianamaslov.cs.pdb
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\medianamaslov.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\medianamaslov.cs.AssemblyInfoInputs.cache
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\medianamaslov.cs.AssemblyInfo.cs
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\medianamaslov.cs.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\medianamaslov.cs.dll
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\refint\medianamaslov.cs.dll
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\medianamaslov.cs.pdb
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\medianamaslov.cs.genruntimeconfig.cache
+C:\Users\Class_Student\source\repos\medianamaslov.cs\medianamaslov.cs\obj\Debug\net8.0\ref\medianamaslov.cs.dll
